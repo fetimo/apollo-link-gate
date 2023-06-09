@@ -1,0 +1,6 @@
+{
+  "name": "apollo-link-gate",
+  "peerDependencies": {
+    "@apollo/client": "^3.7.15"
+  }
+}
